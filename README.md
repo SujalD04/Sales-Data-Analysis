@@ -1,5 +1,5 @@
 # 🛒 Online Sales Data Analysis (Google Colab)
 
-# installation
+# Installation
 ```bash
 !pip install numpy pandas plotly mlxtend scipy
